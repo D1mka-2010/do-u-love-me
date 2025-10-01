@@ -39,7 +39,7 @@ button {
 
 #message {
   font-size: 32px;
-  color: darkblue;
+  color: black;
   display: none;
   position: relative;
 }
@@ -64,4 +64,5 @@ button {
   font-size: 60px;
   display: none;
   margin-top: 20px;
+
 }
